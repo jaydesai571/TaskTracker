@@ -1,3 +1,14 @@
+Application is for having the track of the task you can perform in day-to-day life. Also, its having 2 major requireemnt one is for the Create-React-App and another is for Json-Server
+
+Please when running the applicaiton using the two terminal with 2 different commands:
+
+To start up the React application server use following command
+### `npm start`
+
+To start up the Json-Server to connect the db.json file use the following command
+### `npm run server`
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
