@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "Feb 5th at 2:30 pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Food Shopping",
+      "day": "Feb 5th at 2:30 pm",
+      "reminder": false
+    },
+    {
+      "text": "Interview ",
+      "day": "Tuesday at 2:30 pm ",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Buy Mobile Cover",
+      "day": "Monday at 10:00 am",
+      "reminder": false,
+      "id": 6
+    }
+  ]
+}
